@@ -4,5 +4,3 @@
 - 🔭 I’m currently working as the **community lead** for [ethereum.org](https://github.com/ethereum/ethereum-org-website)
 
 - 💬 Ask me about **Ethereum**
-
-- 📫 Reach out to me at **joshua.douglas@ethereum.org**
